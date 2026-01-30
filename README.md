@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [Academic projects, hackathons, and self-driven development work](Academic projects, hackathons, and self-driven development work)
 
-- ⚡ Fun fact **I break thins just to understand how they work**
+- ⚡ Fun fact **I break things just to understand how they work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
