@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CarnageWolfiger
+- 👋 Hi, I’m Hardik Singh
 
 <!---
 CarnageWolfiger/CarnageWolfiger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
