@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carnagewolfiger" alt="carnagewolfiger" /></a> </p>
 
-- 🔭 I’m currently working on [Cashbit-Smart Expense Tracker Web App](CarnageWolfiger/Smart-Expense-Tracker-Application)
+- 🔭 I’m currently working on [OptiTransit-Ai-Powered Commute & Crowd Predictor](CarnageWolfiger/OptiTransit)
 
-- 🌱 I’m currently learning **React, Node.js, System Design basics, And Data Structures and Algorithms**
+- 🌱 I’m currently learning **React, Springboot, System Design basics, And Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **Open-source web development projects (Frontend/ Full-stack)**
+- 👯 I’m looking to collaborate on **Open-source Java web development projects (Frontend/ Full-stack)**
 
 - 🤝 I’m looking for help with **Scalable backend architecture and API design**
 
